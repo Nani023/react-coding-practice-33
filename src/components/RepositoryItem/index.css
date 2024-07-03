@@ -1,0 +1,13 @@
+.repository-languages {
+  list-style-type: none;
+  margin: 15px;
+}
+.languages-container {
+  background-color: #f8f8ff;
+  height: 350px;
+  padding: 25px;
+}
+.avatar-image {
+  height: 150px;
+  margin: 5px;
+}

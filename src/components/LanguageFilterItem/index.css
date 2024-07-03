@@ -1,0 +1,17 @@
+.buttons-list {
+  list-style-type: none;
+  margin: 10px;
+}
+.buttons {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 15px;
+  border-width: 0px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #0f172a;
+  background-color: transparent;
+  cursor: pointer;
+}
